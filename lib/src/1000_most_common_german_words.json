@@ -1,0 +1,5002 @@
+[
+  {
+    "rank": 1,
+    "german": "wie",
+    "english": "as"
+  },
+  {
+    "rank": 2,
+    "german": "ich",
+    "english": "I"
+  },
+  {
+    "rank": 3,
+    "german": "seine",
+    "english": "his"
+  },
+  {
+    "rank": 4,
+    "german": "dass",
+    "english": "that"
+  },
+  {
+    "rank": 5,
+    "german": "er",
+    "english": "he"
+  },
+  {
+    "rank": 6,
+    "german": "war",
+    "english": "was"
+  },
+  {
+    "rank": 7,
+    "german": "für",
+    "english": "for"
+  },
+  {
+    "rank": 8,
+    "german": "auf",
+    "english": "on"
+  },
+  {
+    "rank": 9,
+    "german": "sind",
+    "english": "are"
+  },
+  {
+    "rank": 10,
+    "german": "mit",
+    "english": "with"
+  },
+  {
+    "rank": 11,
+    "german": "sie",
+    "english": "they"
+  },
+  {
+    "rank": 12,
+    "german": "sein",
+    "english": "be"
+  },
+  {
+    "rank": 13,
+    "german": "bei",
+    "english": "at"
+  },
+  {
+    "rank": 14,
+    "german": "ein",
+    "english": "one"
+  },
+  {
+    "rank": 15,
+    "german": "haben",
+    "english": "have"
+  },
+  {
+    "rank": 16,
+    "german": "dies",
+    "english": "this"
+  },
+  {
+    "rank": 17,
+    "german": "aus",
+    "english": "from"
+  },
+  {
+    "rank": 18,
+    "german": "durch",
+    "english": "by"
+  },
+  {
+    "rank": 19,
+    "german": "heiß",
+    "english": "hot"
+  },
+  {
+    "rank": 20,
+    "german": "Wort",
+    "english": "word"
+  },
+  {
+    "rank": 21,
+    "german": "aber",
+    "english": "but"
+  },
+  {
+    "rank": 22,
+    "german": "was",
+    "english": "what"
+  },
+  {
+    "rank": 23,
+    "german": "einige",
+    "english": "some"
+  },
+  {
+    "rank": 24,
+    "german": "ist",
+    "english": "is"
+  },
+  {
+    "rank": 25,
+    "german": "es",
+    "english": "it"
+  },
+  {
+    "rank": 26,
+    "german": "Sie",
+    "english": "you"
+  },
+  {
+    "rank": 27,
+    "german": "oder",
+    "english": "or"
+  },
+  {
+    "rank": 28,
+    "german": "hatte",
+    "english": "had"
+  },
+  {
+    "rank": 29,
+    "german": "die",
+    "english": "the"
+  },
+  {
+    "rank": 30,
+    "german": "von",
+    "english": "of"
+  },
+  {
+    "rank": 31,
+    "german": "zu",
+    "english": "to"
+  },
+  {
+    "rank": 32,
+    "german": "und",
+    "english": "and"
+  },
+  {
+    "rank": 33,
+    "german": "ein",
+    "english": "a"
+  },
+  {
+    "rank": 34,
+    "german": "bei",
+    "english": "in"
+  },
+  {
+    "rank": 35,
+    "german": "wir",
+    "english": "we"
+  },
+  {
+    "rank": 36,
+    "german": "können",
+    "english": "can"
+  },
+  {
+    "rank": 37,
+    "german": "aus",
+    "english": "out"
+  },
+  {
+    "rank": 38,
+    "german": "andere",
+    "english": "other"
+  },
+  {
+    "rank": 39,
+    "german": "waren",
+    "english": "were"
+  },
+  {
+    "rank": 40,
+    "german": "die",
+    "english": "which"
+  },
+  {
+    "rank": 41,
+    "german": "tun",
+    "english": "do"
+  },
+  {
+    "rank": 42,
+    "german": "ihre",
+    "english": "their"
+  },
+  {
+    "rank": 43,
+    "german": "Zeit",
+    "english": "time"
+  },
+  {
+    "rank": 44,
+    "german": "wenn",
+    "english": "if"
+  },
+  {
+    "rank": 45,
+    "german": "werden",
+    "english": "will"
+  },
+  {
+    "rank": 46,
+    "german": "wie",
+    "english": "how"
+  },
+  {
+    "rank": 47,
+    "german": "sagte",
+    "english": "said"
+  },
+  {
+    "rank": 48,
+    "german": "ein",
+    "english": "an"
+  },
+  {
+    "rank": 49,
+    "german": "jeder",
+    "english": "each"
+  },
+  {
+    "rank": 50,
+    "german": "sagen",
+    "english": "tell"
+  },
+  {
+    "rank": 51,
+    "german": "tut",
+    "english": "does"
+  },
+  {
+    "rank": 52,
+    "german": "Satz",
+    "english": "set"
+  },
+  {
+    "rank": 53,
+    "german": "drei",
+    "english": "three"
+  },
+  {
+    "rank": 54,
+    "german": "wollen",
+    "english": "want"
+  },
+  {
+    "rank": 55,
+    "german": "Luft",
+    "english": "air"
+  },
+  {
+    "rank": 56,
+    "german": "gut",
+    "english": "well"
+  },
+  {
+    "rank": 57,
+    "german": "auch",
+    "english": "also"
+  },
+  {
+    "rank": 58,
+    "german": "spielen",
+    "english": "play"
+  },
+  {
+    "rank": 59,
+    "german": "klein",
+    "english": "small"
+  },
+  {
+    "rank": 60,
+    "german": "Ende",
+    "english": "end"
+  },
+  {
+    "rank": 61,
+    "german": "setzen",
+    "english": "put"
+  },
+  {
+    "rank": 62,
+    "german": "Zuhause",
+    "english": "home"
+  },
+  {
+    "rank": 63,
+    "german": "lesen",
+    "english": "read"
+  },
+  {
+    "rank": 64,
+    "german": "seits",
+    "english": "hand"
+  },
+  {
+    "rank": 65,
+    "german": "Hafen",
+    "english": "port"
+  },
+  {
+    "rank": 66,
+    "german": "groß",
+    "english": "large"
+  },
+  {
+    "rank": 67,
+    "german": "buchstabieren",
+    "english": "spell"
+  },
+  {
+    "rank": 68,
+    "german": "hinzufügen",
+    "english": "add"
+  },
+  {
+    "rank": 69,
+    "german": "auch",
+    "english": "even"
+  },
+  {
+    "rank": 70,
+    "german": "Lande",
+    "english": "land"
+  },
+  {
+    "rank": 71,
+    "german": "hier",
+    "english": "here"
+  },
+  {
+    "rank": 72,
+    "german": "muss",
+    "english": "must"
+  },
+  {
+    "rank": 73,
+    "german": "groß",
+    "english": "big"
+  },
+  {
+    "rank": 74,
+    "german": "hoch",
+    "english": "high"
+  },
+  {
+    "rank": 75,
+    "german": "so",
+    "english": "such"
+  },
+  {
+    "rank": 76,
+    "german": "folgen",
+    "english": "follow"
+  },
+  {
+    "rank": 77,
+    "german": "Akt",
+    "english": "act"
+  },
+  {
+    "rank": 78,
+    "german": "warum",
+    "english": "why"
+  },
+  {
+    "rank": 79,
+    "german": "fragen",
+    "english": "ask"
+  },
+  {
+    "rank": 80,
+    "german": "Männer",
+    "english": "men"
+  },
+  {
+    "rank": 81,
+    "german": "Veränderung",
+    "english": "change"
+  },
+  {
+    "rank": 82,
+    "german": "ging",
+    "english": "went"
+  },
+  {
+    "rank": 83,
+    "german": "Licht",
+    "english": "light"
+  },
+  {
+    "rank": 84,
+    "german": "Art",
+    "english": "kind"
+  },
+  {
+    "rank": 85,
+    "german": "aus",
+    "english": "off"
+  },
+  {
+    "rank": 86,
+    "german": "müssen",
+    "english": "need"
+  },
+  {
+    "rank": 87,
+    "german": "Haus",
+    "english": "house"
+  },
+  {
+    "rank": 88,
+    "german": "Bild",
+    "english": "picture"
+  },
+  {
+    "rank": 89,
+    "german": "versuchen",
+    "english": "try"
+  },
+  {
+    "rank": 90,
+    "german": "uns",
+    "english": "us"
+  },
+  {
+    "rank": 91,
+    "german": "wieder",
+    "english": "again"
+  },
+  {
+    "rank": 92,
+    "german": "Tier",
+    "english": "animal"
+  },
+  {
+    "rank": 93,
+    "german": "Punkt",
+    "english": "point"
+  },
+  {
+    "rank": 94,
+    "german": "Mutter",
+    "english": "mother"
+  },
+  {
+    "rank": 95,
+    "german": "Welt",
+    "english": "world"
+  },
+  {
+    "rank": 96,
+    "german": "in der Nähe von",
+    "english": "near"
+  },
+  {
+    "rank": 97,
+    "german": "bauen",
+    "english": "build"
+  },
+  {
+    "rank": 98,
+    "german": "selbst",
+    "english": "self"
+  },
+  {
+    "rank": 99,
+    "german": "Erde",
+    "english": "earth"
+  },
+  {
+    "rank": 100,
+    "german": "Vater",
+    "english": "father"
+  },
+  {
+    "rank": 101,
+    "german": "jeder",
+    "english": "any"
+  },
+  {
+    "rank": 102,
+    "german": "neu",
+    "english": "new"
+  },
+  {
+    "rank": 103,
+    "german": "Arbeit",
+    "english": "work"
+  },
+  {
+    "rank": 104,
+    "german": "Teil",
+    "english": "part"
+  },
+  {
+    "rank": 105,
+    "german": "nehmen",
+    "english": "take"
+  },
+  {
+    "rank": 106,
+    "german": "erhalten",
+    "english": "get"
+  },
+  {
+    "rank": 107,
+    "german": "Ort",
+    "english": "place"
+  },
+  {
+    "rank": 108,
+    "german": "gemacht",
+    "english": "made"
+  },
+  {
+    "rank": 109,
+    "german": "leben",
+    "english": "live"
+  },
+  {
+    "rank": 110,
+    "german": "wo",
+    "english": "where"
+  },
+  {
+    "rank": 111,
+    "german": "nach",
+    "english": "after"
+  },
+  {
+    "rank": 112,
+    "german": "zurück",
+    "english": "back"
+  },
+  {
+    "rank": 113,
+    "german": "wenig",
+    "english": "little"
+  },
+  {
+    "rank": 114,
+    "german": "nur",
+    "english": "only"
+  },
+  {
+    "rank": 115,
+    "german": "Runde",
+    "english": "round"
+  },
+  {
+    "rank": 116,
+    "german": "Mann",
+    "english": "man"
+  },
+  {
+    "rank": 117,
+    "german": "Jahr",
+    "english": "year"
+  },
+  {
+    "rank": 118,
+    "german": "kam",
+    "english": "came"
+  },
+  {
+    "rank": 119,
+    "german": "zeigen",
+    "english": "show"
+  },
+  {
+    "rank": 120,
+    "german": "jeder",
+    "english": "every"
+  },
+  {
+    "rank": 121,
+    "german": "gut",
+    "english": "good"
+  },
+  {
+    "rank": 122,
+    "german": "mir",
+    "english": "me"
+  },
+  {
+    "rank": 123,
+    "german": "geben",
+    "english": "give"
+  },
+  {
+    "rank": 124,
+    "german": "unsere",
+    "english": "our"
+  },
+  {
+    "rank": 125,
+    "german": "unter",
+    "english": "under"
+  },
+  {
+    "rank": 126,
+    "german": "Name",
+    "english": "name"
+  },
+  {
+    "rank": 127,
+    "german": "sehr",
+    "english": "very"
+  },
+  {
+    "rank": 128,
+    "german": "durch",
+    "english": "through"
+  },
+  {
+    "rank": 129,
+    "german": "nur",
+    "english": "just"
+  },
+  {
+    "rank": 130,
+    "german": "Formular",
+    "english": "form"
+  },
+  {
+    "rank": 131,
+    "german": "Satz",
+    "english": "sentence"
+  },
+  {
+    "rank": 132,
+    "german": "groß",
+    "english": "great"
+  },
+  {
+    "rank": 133,
+    "german": "denken",
+    "english": "think"
+  },
+  {
+    "rank": 134,
+    "german": "sagen",
+    "english": "say"
+  },
+  {
+    "rank": 135,
+    "german": "Hilfe",
+    "english": "help"
+  },
+  {
+    "rank": 136,
+    "german": "niedrig",
+    "english": "low"
+  },
+  {
+    "rank": 137,
+    "german": "Linie",
+    "english": "line"
+  },
+  {
+    "rank": 138,
+    "german": "abweichen",
+    "english": "differ"
+  },
+  {
+    "rank": 139,
+    "german": "wiederum",
+    "english": "turn"
+  },
+  {
+    "rank": 140,
+    "german": "Ursache",
+    "english": "cause"
+  },
+  {
+    "rank": 141,
+    "german": "viel",
+    "english": "much"
+  },
+  {
+    "rank": 142,
+    "german": "bedeuten",
+    "english": "mean"
+  },
+  {
+    "rank": 143,
+    "german": "vor",
+    "english": "before"
+  },
+  {
+    "rank": 144,
+    "german": "Umzug",
+    "english": "move"
+  },
+  {
+    "rank": 145,
+    "german": "Recht",
+    "english": "right"
+  },
+  {
+    "rank": 146,
+    "german": "Junge",
+    "english": "boy"
+  },
+  {
+    "rank": 147,
+    "german": "alt",
+    "english": "old"
+  },
+  {
+    "rank": 148,
+    "german": "zu",
+    "english": "too"
+  },
+  {
+    "rank": 149,
+    "german": "gleich",
+    "english": "same"
+  },
+  {
+    "rank": 150,
+    "german": "sie",
+    "english": "she"
+  },
+  {
+    "rank": 151,
+    "german": "alle",
+    "english": "all"
+  },
+  {
+    "rank": 152,
+    "german": "da",
+    "english": "there"
+  },
+  {
+    "rank": 153,
+    "german": "wenn",
+    "english": "when"
+  },
+  {
+    "rank": 154,
+    "german": "nach oben",
+    "english": "up"
+  },
+  {
+    "rank": 155,
+    "german": "Verwendung",
+    "english": "use"
+  },
+  {
+    "rank": 156,
+    "german": "Ihre",
+    "english": "your"
+  },
+  {
+    "rank": 157,
+    "german": "Weg",
+    "english": "way"
+  },
+  {
+    "rank": 158,
+    "german": "über",
+    "english": "about"
+  },
+  {
+    "rank": 159,
+    "german": "viele",
+    "english": "many"
+  },
+  {
+    "rank": 160,
+    "german": "dann",
+    "english": "then"
+  },
+  {
+    "rank": 161,
+    "german": "sie",
+    "english": "them"
+  },
+  {
+    "rank": 162,
+    "german": "schreiben",
+    "english": "write"
+  },
+  {
+    "rank": 163,
+    "german": "würde",
+    "english": "would"
+  },
+  {
+    "rank": 164,
+    "german": "wie",
+    "english": "like"
+  },
+  {
+    "rank": 165,
+    "german": "so",
+    "english": "so"
+  },
+  {
+    "rank": 166,
+    "german": "diese",
+    "english": "these"
+  },
+  {
+    "rank": 167,
+    "german": "sie",
+    "english": "her"
+  },
+  {
+    "rank": 168,
+    "german": "lange",
+    "english": "long"
+  },
+  {
+    "rank": 169,
+    "german": "machen",
+    "english": "make"
+  },
+  {
+    "rank": 170,
+    "german": "Sache",
+    "english": "thing"
+  },
+  {
+    "rank": 171,
+    "german": "sehen",
+    "english": "see"
+  },
+  {
+    "rank": 172,
+    "german": "ihm",
+    "english": "him"
+  },
+  {
+    "rank": 173,
+    "german": "zwei",
+    "english": "two"
+  },
+  {
+    "rank": 174,
+    "german": "hat",
+    "english": "has"
+  },
+  {
+    "rank": 175,
+    "german": "suchen",
+    "english": "look"
+  },
+  {
+    "rank": 176,
+    "german": "mehr",
+    "english": "more"
+  },
+  {
+    "rank": 177,
+    "german": "Tag",
+    "english": "day"
+  },
+  {
+    "rank": 178,
+    "german": "könnte",
+    "english": "could"
+  },
+  {
+    "rank": 179,
+    "german": "gehen",
+    "english": "go"
+  },
+  {
+    "rank": 180,
+    "german": "kommen",
+    "english": "come"
+  },
+  {
+    "rank": 181,
+    "german": "tat",
+    "english": "did"
+  },
+  {
+    "rank": 182,
+    "german": "Anzahl",
+    "english": "number"
+  },
+  {
+    "rank": 183,
+    "german": "klingen",
+    "english": "sound"
+  },
+  {
+    "rank": 184,
+    "german": "nicht",
+    "english": "no"
+  },
+  {
+    "rank": 185,
+    "german": "am meisten",
+    "english": "most"
+  },
+  {
+    "rank": 186,
+    "german": "Menschen",
+    "english": "people"
+  },
+  {
+    "rank": 187,
+    "german": "meine",
+    "english": "my"
+  },
+  {
+    "rank": 188,
+    "german": "über",
+    "english": "over"
+  },
+  {
+    "rank": 189,
+    "german": "wissen",
+    "english": "know"
+  },
+  {
+    "rank": 190,
+    "german": "Wasser",
+    "english": "water"
+  },
+  {
+    "rank": 191,
+    "german": "als",
+    "english": "than"
+  },
+  {
+    "rank": 192,
+    "german": "Anruf",
+    "english": "call"
+  },
+  {
+    "rank": 193,
+    "german": "erste",
+    "english": "first"
+  },
+  {
+    "rank": 194,
+    "german": "die",
+    "english": "who"
+  },
+  {
+    "rank": 195,
+    "german": "können",
+    "english": "may"
+  },
+  {
+    "rank": 196,
+    "german": "nach unten",
+    "english": "down"
+  },
+  {
+    "rank": 197,
+    "german": "Seite",
+    "english": "side"
+  },
+  {
+    "rank": 198,
+    "german": "gewesen",
+    "english": "been"
+  },
+  {
+    "rank": 199,
+    "german": "jetzt",
+    "english": "now"
+  },
+  {
+    "rank": 200,
+    "german": "finden",
+    "english": "find"
+  },
+  {
+    "rank": 201,
+    "german": "Kopf",
+    "english": "head"
+  },
+  {
+    "rank": 202,
+    "german": "stehen",
+    "english": "stand"
+  },
+  {
+    "rank": 203,
+    "german": "besitzen",
+    "english": "own"
+  },
+  {
+    "rank": 204,
+    "german": "Seite",
+    "english": "page"
+  },
+  {
+    "rank": 205,
+    "german": "sollte",
+    "english": "should"
+  },
+  {
+    "rank": 206,
+    "german": "Land",
+    "english": "country"
+  },
+  {
+    "rank": 207,
+    "german": "gefunden",
+    "english": "found"
+  },
+  {
+    "rank": 208,
+    "german": "Antwort",
+    "english": "answer"
+  },
+  {
+    "rank": 209,
+    "german": "Schule",
+    "english": "school"
+  },
+  {
+    "rank": 210,
+    "german": "wachsen",
+    "english": "grow"
+  },
+  {
+    "rank": 211,
+    "german": "Studie",
+    "english": "study"
+  },
+  {
+    "rank": 212,
+    "german": "noch",
+    "english": "still"
+  },
+  {
+    "rank": 213,
+    "german": "lernen",
+    "english": "learn"
+  },
+  {
+    "rank": 214,
+    "german": "Anlage",
+    "english": "plant"
+  },
+  {
+    "rank": 215,
+    "german": "Abdeckung",
+    "english": "cover"
+  },
+  {
+    "rank": 216,
+    "german": "Lebensmittel",
+    "english": "food"
+  },
+  {
+    "rank": 217,
+    "german": "Sonne",
+    "english": "sun"
+  },
+  {
+    "rank": 218,
+    "german": "vier",
+    "english": "four"
+  },
+  {
+    "rank": 219,
+    "german": "zwischen",
+    "english": "between"
+  },
+  {
+    "rank": 220,
+    "german": "Zustand",
+    "english": "state"
+  },
+  {
+    "rank": 221,
+    "german": "halten",
+    "english": "keep"
+  },
+  {
+    "rank": 222,
+    "german": "Auge",
+    "english": "eye"
+  },
+  {
+    "rank": 223,
+    "german": "nie",
+    "english": "never"
+  },
+  {
+    "rank": 224,
+    "german": "letzte",
+    "english": "last"
+  },
+  {
+    "rank": 225,
+    "german": "lassen",
+    "english": "let"
+  },
+  {
+    "rank": 226,
+    "german": "Gedanken",
+    "english": "thought"
+  },
+  {
+    "rank": 227,
+    "german": "Stadt",
+    "english": "city"
+  },
+  {
+    "rank": 228,
+    "german": "Baum",
+    "english": "tree"
+  },
+  {
+    "rank": 229,
+    "german": "überqueren",
+    "english": "cross"
+  },
+  {
+    "rank": 230,
+    "german": "Bauernhof",
+    "english": "farm"
+  },
+  {
+    "rank": 231,
+    "german": "schwer",
+    "english": "hard"
+  },
+  {
+    "rank": 232,
+    "german": "Beginn",
+    "english": "start"
+  },
+  {
+    "rank": 233,
+    "german": "Macht",
+    "english": "might"
+  },
+  {
+    "rank": 234,
+    "german": "Geschichte",
+    "english": "story"
+  },
+  {
+    "rank": 235,
+    "german": "Säge",
+    "english": "saw"
+  },
+  {
+    "rank": 236,
+    "german": "weit",
+    "english": "far"
+  },
+  {
+    "rank": 237,
+    "german": "Meer",
+    "english": "sea"
+  },
+  {
+    "rank": 238,
+    "german": "ziehen",
+    "english": "draw"
+  },
+  {
+    "rank": 239,
+    "german": "links",
+    "english": "left"
+  },
+  {
+    "rank": 240,
+    "german": "spät",
+    "english": "late"
+  },
+  {
+    "rank": 241,
+    "german": "laufen",
+    "english": "run"
+  },
+  {
+    "rank": 242,
+    "german": "unterlassen Sie",
+    "english": "don't"
+  },
+  {
+    "rank": 243,
+    "german": "während",
+    "english": "while"
+  },
+  {
+    "rank": 244,
+    "german": "Presse",
+    "english": "press"
+  },
+  {
+    "rank": 245,
+    "german": "Schließen",
+    "english": "close"
+  },
+  {
+    "rank": 246,
+    "german": "Nacht",
+    "english": "night"
+  },
+  {
+    "rank": 247,
+    "german": "realen",
+    "english": "real"
+  },
+  {
+    "rank": 248,
+    "german": "Leben",
+    "english": "life"
+  },
+  {
+    "rank": 249,
+    "german": "wenige",
+    "english": "few"
+  },
+  {
+    "rank": 250,
+    "german": "Norden",
+    "english": "north"
+  },
+  {
+    "rank": 251,
+    "german": "Buch",
+    "english": "book"
+  },
+  {
+    "rank": 252,
+    "german": "tragen",
+    "english": "carry"
+  },
+  {
+    "rank": 253,
+    "german": "nahm",
+    "english": "took"
+  },
+  {
+    "rank": 254,
+    "german": "Wissenschaft",
+    "english": "science"
+  },
+  {
+    "rank": 255,
+    "german": "essen",
+    "english": "eat"
+  },
+  {
+    "rank": 256,
+    "german": "Zimmer",
+    "english": "room"
+  },
+  {
+    "rank": 257,
+    "german": "Freund",
+    "english": "friend"
+  },
+  {
+    "rank": 258,
+    "german": "begann",
+    "english": "began"
+  },
+  {
+    "rank": 259,
+    "german": "Idee",
+    "english": "idea"
+  },
+  {
+    "rank": 260,
+    "german": "Fisch",
+    "english": "fish"
+  },
+  {
+    "rank": 261,
+    "german": "berg",
+    "english": "mountain"
+  },
+  {
+    "rank": 262,
+    "german": "Stopp",
+    "english": "stop"
+  },
+  {
+    "rank": 263,
+    "german": "einmal",
+    "english": "once"
+  },
+  {
+    "rank": 264,
+    "german": "Basis",
+    "english": "base"
+  },
+  {
+    "rank": 265,
+    "german": "hören",
+    "english": "hear"
+  },
+  {
+    "rank": 266,
+    "german": "Pferd",
+    "english": "horse"
+  },
+  {
+    "rank": 267,
+    "german": "Schnitt",
+    "english": "cut"
+  },
+  {
+    "rank": 268,
+    "german": "sicher",
+    "english": "sure"
+  },
+  {
+    "rank": 269,
+    "german": "beobachten",
+    "english": "watch"
+  },
+  {
+    "rank": 270,
+    "german": "Farbe",
+    "english": "color"
+  },
+  {
+    "rank": 271,
+    "german": "Gesicht",
+    "english": "face"
+  },
+  {
+    "rank": 272,
+    "german": "Holz",
+    "english": "wood"
+  },
+  {
+    "rank": 273,
+    "german": "Haupt-",
+    "english": "main"
+  },
+  {
+    "rank": 274,
+    "german": "geöffnet",
+    "english": "open"
+  },
+  {
+    "rank": 275,
+    "german": "scheinen",
+    "english": "seem"
+  },
+  {
+    "rank": 276,
+    "german": "zusammen",
+    "english": "together"
+  },
+  {
+    "rank": 277,
+    "german": "nächste",
+    "english": "next"
+  },
+  {
+    "rank": 278,
+    "german": "weiß",
+    "english": "white"
+  },
+  {
+    "rank": 279,
+    "german": "Kinder",
+    "english": "children"
+  },
+  {
+    "rank": 280,
+    "german": "Start",
+    "english": "begin"
+  },
+  {
+    "rank": 281,
+    "german": "bekam",
+    "english": "got"
+  },
+  {
+    "rank": 282,
+    "german": "gehen",
+    "english": "walk"
+  },
+  {
+    "rank": 283,
+    "german": "Beispiel",
+    "english": "example"
+  },
+  {
+    "rank": 284,
+    "german": "erleichtern",
+    "english": "ease"
+  },
+  {
+    "rank": 285,
+    "german": "Papier",
+    "english": "paper"
+  },
+  {
+    "rank": 286,
+    "german": "Gruppe",
+    "english": "group"
+  },
+  {
+    "rank": 287,
+    "german": "immer",
+    "english": "always"
+  },
+  {
+    "rank": 288,
+    "german": "Musik",
+    "english": "music"
+  },
+  {
+    "rank": 289,
+    "german": "diejenigen",
+    "english": "those"
+  },
+  {
+    "rank": 290,
+    "german": "beide",
+    "english": "both"
+  },
+  {
+    "rank": 291,
+    "german": "Marke",
+    "english": "mark"
+  },
+  {
+    "rank": 292,
+    "german": "oft",
+    "english": "often"
+  },
+  {
+    "rank": 293,
+    "german": "Schreiben",
+    "english": "letter"
+  },
+  {
+    "rank": 294,
+    "german": "bis",
+    "english": "until"
+  },
+  {
+    "rank": 295,
+    "german": "Meile",
+    "english": "mile"
+  },
+  {
+    "rank": 296,
+    "german": "Fluss",
+    "english": "river"
+  },
+  {
+    "rank": 297,
+    "german": "Auto",
+    "english": "car"
+  },
+  {
+    "rank": 298,
+    "german": "Füße",
+    "english": "feet"
+  },
+  {
+    "rank": 299,
+    "german": "Pflege",
+    "english": "care"
+  },
+  {
+    "rank": 300,
+    "german": "zweite",
+    "english": "second"
+  },
+  {
+    "rank": 301,
+    "german": "genug",
+    "english": "enough"
+  },
+  {
+    "rank": 302,
+    "german": "Ebene",
+    "english": "plain"
+  },
+  {
+    "rank": 303,
+    "german": "Mädchen",
+    "english": "girl"
+  },
+  {
+    "rank": 304,
+    "german": "üblich",
+    "english": "usual"
+  },
+  {
+    "rank": 305,
+    "german": "jung",
+    "english": "young"
+  },
+  {
+    "rank": 306,
+    "german": "bereit",
+    "english": "ready"
+  },
+  {
+    "rank": 307,
+    "german": "oben",
+    "english": "above"
+  },
+  {
+    "rank": 308,
+    "german": "je",
+    "english": "ever"
+  },
+  {
+    "rank": 309,
+    "german": "rot",
+    "english": "red"
+  },
+  {
+    "rank": 310,
+    "german": "Liste",
+    "english": "list"
+  },
+  {
+    "rank": 311,
+    "german": "obwohl",
+    "english": "though"
+  },
+  {
+    "rank": 312,
+    "german": "fühlen",
+    "english": "feel"
+  },
+  {
+    "rank": 313,
+    "german": "Vortrag",
+    "english": "talk"
+  },
+  {
+    "rank": 314,
+    "german": "Vogel",
+    "english": "bird"
+  },
+  {
+    "rank": 315,
+    "german": "bald",
+    "english": "soon"
+  },
+  {
+    "rank": 316,
+    "german": "Körper",
+    "english": "body"
+  },
+  {
+    "rank": 317,
+    "german": "Hund",
+    "english": "dog"
+  },
+  {
+    "rank": 318,
+    "german": "Familie",
+    "english": "family"
+  },
+  {
+    "rank": 319,
+    "german": "direkt",
+    "english": "direct"
+  },
+  {
+    "rank": 320,
+    "german": "Pose",
+    "english": "pose"
+  },
+  {
+    "rank": 321,
+    "german": "verlassen",
+    "english": "leave"
+  },
+  {
+    "rank": 322,
+    "german": "Lied",
+    "english": "song"
+  },
+  {
+    "rank": 323,
+    "german": "messen",
+    "english": "measure"
+  },
+  {
+    "rank": 324,
+    "german": "Tür",
+    "english": "door"
+  },
+  {
+    "rank": 325,
+    "german": "Produkt",
+    "english": "product"
+  },
+  {
+    "rank": 326,
+    "german": "schwarz",
+    "english": "black"
+  },
+  {
+    "rank": 327,
+    "german": "kurz",
+    "english": "short"
+  },
+  {
+    "rank": 328,
+    "german": "Zahl",
+    "english": "numeral"
+  },
+  {
+    "rank": 329,
+    "german": "Klasse",
+    "english": "class"
+  },
+  {
+    "rank": 330,
+    "german": "Wind",
+    "english": "wind"
+  },
+  {
+    "rank": 331,
+    "german": "Frage",
+    "english": "question"
+  },
+  {
+    "rank": 332,
+    "german": "passieren",
+    "english": "happen"
+  },
+  {
+    "rank": 333,
+    "german": "vollständig",
+    "english": "complete"
+  },
+  {
+    "rank": 334,
+    "german": "Schiff",
+    "english": "ship"
+  },
+  {
+    "rank": 335,
+    "german": "Bereich",
+    "english": "area"
+  },
+  {
+    "rank": 336,
+    "german": "Hälfte",
+    "english": "half"
+  },
+  {
+    "rank": 337,
+    "german": "Stein",
+    "english": "rock"
+  },
+  {
+    "rank": 338,
+    "german": "bestellen",
+    "english": "order"
+  },
+  {
+    "rank": 339,
+    "german": "Feuer",
+    "english": "fire"
+  },
+  {
+    "rank": 340,
+    "german": "Süden",
+    "english": "south"
+  },
+  {
+    "rank": 341,
+    "german": "Problem",
+    "english": "problem"
+  },
+  {
+    "rank": 342,
+    "german": "Stück",
+    "english": "piece"
+  },
+  {
+    "rank": 343,
+    "german": "sagte",
+    "english": "told"
+  },
+  {
+    "rank": 344,
+    "german": "wusste",
+    "english": "knew"
+  },
+  {
+    "rank": 345,
+    "german": "passieren",
+    "english": "pass"
+  },
+  {
+    "rank": 346,
+    "german": "seit",
+    "english": "since"
+  },
+  {
+    "rank": 347,
+    "german": "obere",
+    "english": "top"
+  },
+  {
+    "rank": 348,
+    "german": "ganze",
+    "english": "whole"
+  },
+  {
+    "rank": 349,
+    "german": "König",
+    "english": "king"
+  },
+  {
+    "rank": 350,
+    "german": "Straße",
+    "english": "street"
+  },
+  {
+    "rank": 351,
+    "german": "Zoll",
+    "english": "inch"
+  },
+  {
+    "rank": 352,
+    "german": "multiplizieren",
+    "english": "multiply"
+  },
+  {
+    "rank": 353,
+    "german": "nichts",
+    "english": "nothing"
+  },
+  {
+    "rank": 354,
+    "german": "Kurs",
+    "english": "course"
+  },
+  {
+    "rank": 355,
+    "german": "bleiben",
+    "english": "stay"
+  },
+  {
+    "rank": 356,
+    "german": "Rad",
+    "english": "wheel"
+  },
+  {
+    "rank": 357,
+    "german": "voll",
+    "english": "full"
+  },
+  {
+    "rank": 358,
+    "german": "Kraft",
+    "english": "force"
+  },
+  {
+    "rank": 359,
+    "german": "blau",
+    "english": "blue"
+  },
+  {
+    "rank": 360,
+    "german": "Objekt",
+    "english": "object"
+  },
+  {
+    "rank": 361,
+    "german": "entscheiden",
+    "english": "decide"
+  },
+  {
+    "rank": 362,
+    "german": "Oberfläche",
+    "english": "surface"
+  },
+  {
+    "rank": 363,
+    "german": "tief",
+    "english": "deep"
+  },
+  {
+    "rank": 364,
+    "german": "Mond",
+    "english": "moon"
+  },
+  {
+    "rank": 365,
+    "german": "Insel",
+    "english": "island"
+  },
+  {
+    "rank": 366,
+    "german": "Fuß",
+    "english": "foot"
+  },
+  {
+    "rank": 367,
+    "german": "System",
+    "english": "system"
+  },
+  {
+    "rank": 368,
+    "german": "beschäftigt",
+    "english": "busy"
+  },
+  {
+    "rank": 369,
+    "german": "Prüfung",
+    "english": "test"
+  },
+  {
+    "rank": 370,
+    "german": "Rekord",
+    "english": "record"
+  },
+  {
+    "rank": 371,
+    "german": "Boot",
+    "english": "boat"
+  },
+  {
+    "rank": 372,
+    "german": "gemeinsam",
+    "english": "common"
+  },
+  {
+    "rank": 373,
+    "german": "goldenen",
+    "english": "gold"
+  },
+  {
+    "rank": 374,
+    "german": "möglich",
+    "english": "possible"
+  },
+  {
+    "rank": 375,
+    "german": "Flugzeug",
+    "english": "plane"
+  },
+  {
+    "rank": 376,
+    "german": "statt",
+    "english": "stead"
+  },
+  {
+    "rank": 377,
+    "german": "trocken",
+    "english": "dry"
+  },
+  {
+    "rank": 378,
+    "german": "Wunder",
+    "english": "wonder"
+  },
+  {
+    "rank": 379,
+    "german": "Lachen",
+    "english": "laugh"
+  },
+  {
+    "rank": 380,
+    "german": "tausend",
+    "english": "thousand"
+  },
+  {
+    "rank": 381,
+    "german": "vor",
+    "english": "ago"
+  },
+  {
+    "rank": 382,
+    "german": "lief",
+    "english": "ran"
+  },
+  {
+    "rank": 383,
+    "german": "überprüfen",
+    "english": "check"
+  },
+  {
+    "rank": 384,
+    "german": "Spiel",
+    "english": "game"
+  },
+  {
+    "rank": 385,
+    "german": "Form",
+    "english": "shape"
+  },
+  {
+    "rank": 386,
+    "german": "gleichsetzen",
+    "english": "equate"
+  },
+  {
+    "rank": 387,
+    "german": "heiß",
+    "english": "hot"
+  },
+  {
+    "rank": 388,
+    "german": "Fehl",
+    "english": "miss"
+  },
+  {
+    "rank": 389,
+    "german": "gebracht",
+    "english": "brought"
+  },
+  {
+    "rank": 390,
+    "german": "Wärme",
+    "english": "heat"
+  },
+  {
+    "rank": 391,
+    "german": "Schnee",
+    "english": "snow"
+  },
+  {
+    "rank": 392,
+    "german": "Reifen",
+    "english": "tire"
+  },
+  {
+    "rank": 393,
+    "german": "bringen",
+    "english": "bring"
+  },
+  {
+    "rank": 394,
+    "german": "ja",
+    "english": "yes"
+  },
+  {
+    "rank": 395,
+    "german": "entfernt",
+    "english": "distant"
+  },
+  {
+    "rank": 396,
+    "german": "füllen",
+    "english": "fill"
+  },
+  {
+    "rank": 397,
+    "german": "Osten",
+    "english": "east"
+  },
+  {
+    "rank": 398,
+    "german": "malen",
+    "english": "paint"
+  },
+  {
+    "rank": 399,
+    "german": "Sprache",
+    "english": "language"
+  },
+  {
+    "rank": 400,
+    "german": "unter",
+    "english": "among"
+  },
+  {
+    "rank": 401,
+    "german": "Einheit",
+    "english": "unit"
+  },
+  {
+    "rank": 402,
+    "german": "Macht",
+    "english": "power"
+  },
+  {
+    "rank": 403,
+    "german": "Stadt",
+    "english": "town"
+  },
+  {
+    "rank": 404,
+    "german": "fein",
+    "english": "fine"
+  },
+  {
+    "rank": 405,
+    "german": "sicher",
+    "english": "certain"
+  },
+  {
+    "rank": 406,
+    "german": "fliegen",
+    "english": "fly"
+  },
+  {
+    "rank": 407,
+    "german": "fallen",
+    "english": "fall"
+  },
+  {
+    "rank": 408,
+    "german": "führen",
+    "english": "lead"
+  },
+  {
+    "rank": 409,
+    "german": "Schrei",
+    "english": "cry"
+  },
+  {
+    "rank": 410,
+    "german": "dunkel",
+    "english": "dark"
+  },
+  {
+    "rank": 411,
+    "german": "Maschine",
+    "english": "machine"
+  },
+  {
+    "rank": 412,
+    "german": "note",
+    "english": "note"
+  },
+  {
+    "rank": 413,
+    "german": "warten",
+    "english": "wait"
+  },
+  {
+    "rank": 414,
+    "german": "Plan",
+    "english": "plan"
+  },
+  {
+    "rank": 415,
+    "german": "Abbildung",
+    "english": "figure"
+  },
+  {
+    "rank": 416,
+    "german": "Stern",
+    "english": "star"
+  },
+  {
+    "rank": 417,
+    "german": "Kasten",
+    "english": "box"
+  },
+  {
+    "rank": 418,
+    "german": "Nomen",
+    "english": "noun"
+  },
+  {
+    "rank": 419,
+    "german": "Feld",
+    "english": "field"
+  },
+  {
+    "rank": 420,
+    "german": "Rest",
+    "english": "rest"
+  },
+  {
+    "rank": 421,
+    "german": "richtig",
+    "english": "correct"
+  },
+  {
+    "rank": 422,
+    "german": "fähig",
+    "english": "able"
+  },
+  {
+    "rank": 423,
+    "german": "Pfund",
+    "english": "pound"
+  },
+  {
+    "rank": 424,
+    "german": "getan",
+    "english": "done"
+  },
+  {
+    "rank": 425,
+    "german": "Schönheit",
+    "english": "beauty"
+  },
+  {
+    "rank": 426,
+    "german": "Antriebs",
+    "english": "drive"
+  },
+  {
+    "rank": 427,
+    "german": "stand",
+    "english": "stood"
+  },
+  {
+    "rank": 428,
+    "german": "enthalten",
+    "english": "contain"
+  },
+  {
+    "rank": 429,
+    "german": "Front",
+    "english": "front"
+  },
+  {
+    "rank": 430,
+    "german": "lehren",
+    "english": "teach"
+  },
+  {
+    "rank": 431,
+    "german": "Woche",
+    "english": "week"
+  },
+  {
+    "rank": 432,
+    "german": "Finale",
+    "english": "final"
+  },
+  {
+    "rank": 433,
+    "german": "gab",
+    "english": "gave"
+  },
+  {
+    "rank": 434,
+    "german": "grün",
+    "english": "green"
+  },
+  {
+    "rank": 435,
+    "german": "oh",
+    "english": "oh"
+  },
+  {
+    "rank": 436,
+    "german": "schnell",
+    "english": "quick"
+  },
+  {
+    "rank": 437,
+    "german": "entwickeln",
+    "english": "develop"
+  },
+  {
+    "rank": 438,
+    "german": "Ozean",
+    "english": "ocean"
+  },
+  {
+    "rank": 439,
+    "german": "warme",
+    "english": "warm"
+  },
+  {
+    "rank": 440,
+    "german": "kostenlos",
+    "english": "free"
+  },
+  {
+    "rank": 441,
+    "german": "Minute",
+    "english": "minute"
+  },
+  {
+    "rank": 442,
+    "german": "stark",
+    "english": "strong"
+  },
+  {
+    "rank": 443,
+    "german": "besondere",
+    "english": "special"
+  },
+  {
+    "rank": 444,
+    "german": "Geist",
+    "english": "mind"
+  },
+  {
+    "rank": 445,
+    "german": "hinter",
+    "english": "behind"
+  },
+  {
+    "rank": 446,
+    "german": "klar",
+    "english": "clear"
+  },
+  {
+    "rank": 447,
+    "german": "Schwanz",
+    "english": "tail"
+  },
+  {
+    "rank": 448,
+    "german": "produzieren",
+    "english": "produce"
+  },
+  {
+    "rank": 449,
+    "german": "Tatsache",
+    "english": "fact"
+  },
+  {
+    "rank": 450,
+    "german": "Raum",
+    "english": "space"
+  },
+  {
+    "rank": 451,
+    "german": "gehört",
+    "english": "heard"
+  },
+  {
+    "rank": 452,
+    "german": "beste",
+    "english": "best"
+  },
+  {
+    "rank": 453,
+    "german": "Stunde",
+    "english": "hour"
+  },
+  {
+    "rank": 454,
+    "german": "besser",
+    "english": "better"
+  },
+  {
+    "rank": 455,
+    "german": "wahr",
+    "english": "true"
+  },
+  {
+    "rank": 456,
+    "german": "während",
+    "english": "during"
+  },
+  {
+    "rank": 457,
+    "german": "hundert",
+    "english": "hundred"
+  },
+  {
+    "rank": 458,
+    "german": "fünf",
+    "english": "five"
+  },
+  {
+    "rank": 459,
+    "german": "merken",
+    "english": "remember"
+  },
+  {
+    "rank": 460,
+    "german": "Schritt",
+    "english": "step"
+  },
+  {
+    "rank": 461,
+    "german": "früh",
+    "english": "early"
+  },
+  {
+    "rank": 462,
+    "german": "halten",
+    "english": "hold"
+  },
+  {
+    "rank": 463,
+    "german": "Westen",
+    "english": "west"
+  },
+  {
+    "rank": 464,
+    "german": "Boden",
+    "english": "ground"
+  },
+  {
+    "rank": 465,
+    "german": "Interesse",
+    "english": "interest"
+  },
+  {
+    "rank": 466,
+    "german": "erreichen",
+    "english": "reach"
+  },
+  {
+    "rank": 467,
+    "german": "schnell",
+    "english": "fast"
+  },
+  {
+    "rank": 468,
+    "german": "Verbum",
+    "english": "verb"
+  },
+  {
+    "rank": 469,
+    "german": "singen",
+    "english": "sing"
+  },
+  {
+    "rank": 470,
+    "german": "hören",
+    "english": "listen"
+  },
+  {
+    "rank": 471,
+    "german": "sechs",
+    "english": "six"
+  },
+  {
+    "rank": 472,
+    "german": "Tabelle",
+    "english": "table"
+  },
+  {
+    "rank": 473,
+    "german": "Reise",
+    "english": "travel"
+  },
+  {
+    "rank": 474,
+    "german": "weniger",
+    "english": "less"
+  },
+  {
+    "rank": 475,
+    "german": "Morgen",
+    "english": "morning"
+  },
+  {
+    "rank": 476,
+    "german": "zehn",
+    "english": "ten"
+  },
+  {
+    "rank": 477,
+    "german": "einfach",
+    "english": "simple"
+  },
+  {
+    "rank": 478,
+    "german": "mehrere",
+    "english": "several"
+  },
+  {
+    "rank": 479,
+    "german": "Vokal",
+    "english": "vowel"
+  },
+  {
+    "rank": 480,
+    "german": "auf",
+    "english": "toward"
+  },
+  {
+    "rank": 481,
+    "german": "Krieg",
+    "english": "war"
+  },
+  {
+    "rank": 482,
+    "german": "legen",
+    "english": "lay"
+  },
+  {
+    "rank": 483,
+    "german": "gegen",
+    "english": "against"
+  },
+  {
+    "rank": 484,
+    "german": "Muster",
+    "english": "pattern"
+  },
+  {
+    "rank": 485,
+    "german": "schleppend",
+    "english": "slow"
+  },
+  {
+    "rank": 486,
+    "german": "Zentrum",
+    "english": "center"
+  },
+  {
+    "rank": 487,
+    "german": "Liebe",
+    "english": "love"
+  },
+  {
+    "rank": 488,
+    "german": "Person",
+    "english": "person"
+  },
+  {
+    "rank": 489,
+    "german": "Geld",
+    "english": "money"
+  },
+  {
+    "rank": 490,
+    "german": "dienen",
+    "english": "serve"
+  },
+  {
+    "rank": 491,
+    "german": "erscheinen",
+    "english": "appear"
+  },
+  {
+    "rank": 492,
+    "german": "Straße",
+    "english": "road"
+  },
+  {
+    "rank": 493,
+    "german": "Karte",
+    "english": "map"
+  },
+  {
+    "rank": 494,
+    "german": "regen",
+    "english": "rain"
+  },
+  {
+    "rank": 495,
+    "german": "Regel",
+    "english": "rule"
+  },
+  {
+    "rank": 496,
+    "german": "regieren",
+    "english": "govern"
+  },
+  {
+    "rank": 497,
+    "german": "ziehen",
+    "english": "pull"
+  },
+  {
+    "rank": 498,
+    "german": "Kälte",
+    "english": "cold"
+  },
+  {
+    "rank": 499,
+    "german": "Hinweis",
+    "english": "notice"
+  },
+  {
+    "rank": 500,
+    "german": "Stimme",
+    "english": "voice"
+  },
+  {
+    "rank": 501,
+    "german": "Energie",
+    "english": "energy"
+  },
+  {
+    "rank": 502,
+    "german": "Jagd",
+    "english": "hunt"
+  },
+  {
+    "rank": 503,
+    "german": "wahrscheinlich",
+    "english": "probable"
+  },
+  {
+    "rank": 504,
+    "german": "Bett",
+    "english": "bed"
+  },
+  {
+    "rank": 505,
+    "german": "Bruder",
+    "english": "brother"
+  },
+  {
+    "rank": 506,
+    "german": "Ei",
+    "english": "egg"
+  },
+  {
+    "rank": 507,
+    "german": "Fahrt",
+    "english": "ride"
+  },
+  {
+    "rank": 508,
+    "german": "Zelle",
+    "english": "cell"
+  },
+  {
+    "rank": 509,
+    "german": "glauben",
+    "english": "believe"
+  },
+  {
+    "rank": 510,
+    "german": "vielleicht",
+    "english": "perhaps"
+  },
+  {
+    "rank": 511,
+    "german": "pflücken",
+    "english": "pick"
+  },
+  {
+    "rank": 512,
+    "german": "plötzlich",
+    "english": "sudden"
+  },
+  {
+    "rank": 513,
+    "german": "zählen",
+    "english": "count"
+  },
+  {
+    "rank": 514,
+    "german": "Platz",
+    "english": "square"
+  },
+  {
+    "rank": 515,
+    "german": "Grund",
+    "english": "reason"
+  },
+  {
+    "rank": 516,
+    "german": "Dauer",
+    "english": "length"
+  },
+  {
+    "rank": 517,
+    "german": "vertreten",
+    "english": "represent"
+  },
+  {
+    "rank": 518,
+    "german": "Kunst",
+    "english": "art"
+  },
+  {
+    "rank": 519,
+    "german": "Thema",
+    "english": "subject"
+  },
+  {
+    "rank": 520,
+    "german": "Region",
+    "english": "region"
+  },
+  {
+    "rank": 521,
+    "german": "Größe",
+    "english": "size"
+  },
+  {
+    "rank": 522,
+    "german": "variieren",
+    "english": "vary"
+  },
+  {
+    "rank": 523,
+    "german": "regeln",
+    "english": "settle"
+  },
+  {
+    "rank": 524,
+    "german": "sprechen",
+    "english": "speak"
+  },
+  {
+    "rank": 525,
+    "german": "Gewicht",
+    "english": "weight"
+  },
+  {
+    "rank": 526,
+    "german": "allgemein",
+    "english": "general"
+  },
+  {
+    "rank": 527,
+    "german": "Eis",
+    "english": "ice"
+  },
+  {
+    "rank": 528,
+    "german": "Materie",
+    "english": "matter"
+  },
+  {
+    "rank": 529,
+    "german": "Kreis",
+    "english": "circle"
+  },
+  {
+    "rank": 530,
+    "german": "Paar",
+    "english": "pair"
+  },
+  {
+    "rank": 531,
+    "german": "umfassen",
+    "english": "include"
+  },
+  {
+    "rank": 532,
+    "german": "Kluft",
+    "english": "divide"
+  },
+  {
+    "rank": 533,
+    "german": "Silbe",
+    "english": "syllable"
+  },
+  {
+    "rank": 534,
+    "german": "Filz",
+    "english": "felt"
+  },
+  {
+    "rank": 535,
+    "german": "groß",
+    "english": "grand"
+  },
+  {
+    "rank": 536,
+    "german": "Kugel",
+    "english": "ball"
+  },
+  {
+    "rank": 537,
+    "german": "noch",
+    "english": "yet"
+  },
+  {
+    "rank": 538,
+    "german": "Welle",
+    "english": "wave"
+  },
+  {
+    "rank": 539,
+    "german": "fallen",
+    "english": "drop"
+  },
+  {
+    "rank": 540,
+    "german": "Herz",
+    "english": "heart"
+  },
+  {
+    "rank": 541,
+    "german": "Uhr",
+    "english": "am"
+  },
+  {
+    "rank": 542,
+    "german": "vorhanden",
+    "english": "present"
+  },
+  {
+    "rank": 543,
+    "german": "schwer",
+    "english": "heavy"
+  },
+  {
+    "rank": 544,
+    "german": "Tanz",
+    "english": "dance"
+  },
+  {
+    "rank": 545,
+    "german": "Motor",
+    "english": "engine"
+  },
+  {
+    "rank": 546,
+    "german": "Position",
+    "english": "position"
+  },
+  {
+    "rank": 547,
+    "german": "Arm",
+    "english": "arm"
+  },
+  {
+    "rank": 548,
+    "german": "breit",
+    "english": "wide"
+  },
+  {
+    "rank": 549,
+    "german": "Segel",
+    "english": "sail"
+  },
+  {
+    "rank": 550,
+    "german": "Material",
+    "english": "material"
+  },
+  {
+    "rank": 551,
+    "german": "Fraktion",
+    "english": "fraction"
+  },
+  {
+    "rank": 552,
+    "german": "Wald",
+    "english": "forest"
+  },
+  {
+    "rank": 553,
+    "german": "sitzen",
+    "english": "sit"
+  },
+  {
+    "rank": 554,
+    "german": "Rennen",
+    "english": "race"
+  },
+  {
+    "rank": 555,
+    "german": "Fenster",
+    "english": "window"
+  },
+  {
+    "rank": 556,
+    "german": "Speicher",
+    "english": "store"
+  },
+  {
+    "rank": 557,
+    "german": "Sommer",
+    "english": "summer"
+  },
+  {
+    "rank": 558,
+    "german": "Zug",
+    "english": "train"
+  },
+  {
+    "rank": 559,
+    "german": "Schlaf",
+    "english": "sleep"
+  },
+  {
+    "rank": 560,
+    "german": "beweisen",
+    "english": "prove"
+  },
+  {
+    "rank": 561,
+    "german": "einsam",
+    "english": "lone"
+  },
+  {
+    "rank": 562,
+    "german": "Bein",
+    "english": "leg"
+  },
+  {
+    "rank": 563,
+    "german": "Übung",
+    "english": "exercise"
+  },
+  {
+    "rank": 564,
+    "german": "Wand",
+    "english": "wall"
+  },
+  {
+    "rank": 565,
+    "german": "Fang",
+    "english": "catch"
+  },
+  {
+    "rank": 566,
+    "german": "Berg",
+    "english": "mount"
+  },
+  {
+    "rank": 567,
+    "german": "wünschen",
+    "english": "wish"
+  },
+  {
+    "rank": 568,
+    "german": "Himmel",
+    "english": "sky"
+  },
+  {
+    "rank": 569,
+    "german": "Board",
+    "english": "board"
+  },
+  {
+    "rank": 570,
+    "german": "Freude",
+    "english": "joy"
+  },
+  {
+    "rank": 571,
+    "german": "Winter",
+    "english": "winter"
+  },
+  {
+    "rank": 572,
+    "german": "sa",
+    "english": "sat"
+  },
+  {
+    "rank": 573,
+    "german": "geschrieben",
+    "english": "written"
+  },
+  {
+    "rank": 574,
+    "german": "wilden",
+    "english": "wild"
+  },
+  {
+    "rank": 575,
+    "german": "Instrument",
+    "english": "instrument"
+  },
+  {
+    "rank": 576,
+    "german": "gehalten",
+    "english": "kept"
+  },
+  {
+    "rank": 577,
+    "german": "Glas",
+    "english": "glass"
+  },
+  {
+    "rank": 578,
+    "german": "Gras",
+    "english": "grass"
+  },
+  {
+    "rank": 579,
+    "german": "Kuh",
+    "english": "cow"
+  },
+  {
+    "rank": 580,
+    "german": "Arbeit",
+    "english": "job"
+  },
+  {
+    "rank": 581,
+    "german": "Rand",
+    "english": "edge"
+  },
+  {
+    "rank": 582,
+    "german": "Zeichen",
+    "english": "sign"
+  },
+  {
+    "rank": 583,
+    "german": "Besuch",
+    "english": "visit"
+  },
+  {
+    "rank": 584,
+    "german": "Vergangenheit",
+    "english": "past"
+  },
+  {
+    "rank": 585,
+    "german": "weich",
+    "english": "soft"
+  },
+  {
+    "rank": 586,
+    "german": "Spaß",
+    "english": "fun"
+  },
+  {
+    "rank": 587,
+    "german": "hell",
+    "english": "bright"
+  },
+  {
+    "rank": 588,
+    "german": "Gases",
+    "english": "gas"
+  },
+  {
+    "rank": 589,
+    "german": "Wetter",
+    "english": "weather"
+  },
+  {
+    "rank": 590,
+    "german": "Monat",
+    "english": "month"
+  },
+  {
+    "rank": 591,
+    "german": "Million",
+    "english": "million"
+  },
+  {
+    "rank": 592,
+    "german": "tragen",
+    "english": "bear"
+  },
+  {
+    "rank": 593,
+    "german": "Finish",
+    "english": "finish"
+  },
+  {
+    "rank": 594,
+    "german": "glücklich",
+    "english": "happy"
+  },
+  {
+    "rank": 595,
+    "german": "hoffen",
+    "english": "hope"
+  },
+  {
+    "rank": 596,
+    "german": "blume",
+    "english": "flower"
+  },
+  {
+    "rank": 597,
+    "german": "kleiden",
+    "english": "clothe"
+  },
+  {
+    "rank": 598,
+    "german": "seltsam",
+    "english": "strange"
+  },
+  {
+    "rank": 599,
+    "german": "Vorbei",
+    "english": "gone"
+  },
+  {
+    "rank": 600,
+    "german": "Handel",
+    "english": "trade"
+  },
+  {
+    "rank": 601,
+    "german": "Melodie",
+    "english": "melody"
+  },
+  {
+    "rank": 602,
+    "german": "Reise",
+    "english": "trip"
+  },
+  {
+    "rank": 603,
+    "german": "Büro",
+    "english": "office"
+  },
+  {
+    "rank": 604,
+    "german": "empfangen",
+    "english": "receive"
+  },
+  {
+    "rank": 605,
+    "german": "Reihe",
+    "english": "row"
+  },
+  {
+    "rank": 606,
+    "german": "Mund",
+    "english": "mouth"
+  },
+  {
+    "rank": 607,
+    "german": "genau",
+    "english": "exact"
+  },
+  {
+    "rank": 608,
+    "german": "Zeichen",
+    "english": "symbol"
+  },
+  {
+    "rank": 609,
+    "german": "sterben",
+    "english": "die"
+  },
+  {
+    "rank": 610,
+    "german": "am wenigsten",
+    "english": "least"
+  },
+  {
+    "rank": 611,
+    "german": "Ärger",
+    "english": "trouble"
+  },
+  {
+    "rank": 612,
+    "german": "Schrei",
+    "english": "shout"
+  },
+  {
+    "rank": 613,
+    "german": "außer",
+    "english": "except"
+  },
+  {
+    "rank": 614,
+    "german": "schrieb",
+    "english": "wrote"
+  },
+  {
+    "rank": 615,
+    "german": "Samen",
+    "english": "seed"
+  },
+  {
+    "rank": 616,
+    "german": "Ton",
+    "english": "tone"
+  },
+  {
+    "rank": 617,
+    "german": "beitreten",
+    "english": "join"
+  },
+  {
+    "rank": 618,
+    "german": "vorschlagen",
+    "english": "suggest"
+  },
+  {
+    "rank": 619,
+    "german": "sauber",
+    "english": "clean"
+  },
+  {
+    "rank": 620,
+    "german": "Pause",
+    "english": "break"
+  },
+  {
+    "rank": 621,
+    "german": "Dame",
+    "english": "lady"
+  },
+  {
+    "rank": 622,
+    "german": "Hof",
+    "english": "yard"
+  },
+  {
+    "rank": 623,
+    "german": "steigen",
+    "english": "rise"
+  },
+  {
+    "rank": 624,
+    "german": "schlecht",
+    "english": "bad"
+  },
+  {
+    "rank": 625,
+    "german": "Schlag",
+    "english": "blow"
+  },
+  {
+    "rank": 626,
+    "german": "Öl",
+    "english": "oil"
+  },
+  {
+    "rank": 627,
+    "german": "Blut",
+    "english": "blood"
+  },
+  {
+    "rank": 628,
+    "german": "berühren",
+    "english": "touch"
+  },
+  {
+    "rank": 629,
+    "german": "wuchs",
+    "english": "grew"
+  },
+  {
+    "rank": 630,
+    "german": "Cent",
+    "english": "cent"
+  },
+  {
+    "rank": 631,
+    "german": "mischen",
+    "english": "mix"
+  },
+  {
+    "rank": 632,
+    "german": "Mannschaft",
+    "english": "team"
+  },
+  {
+    "rank": 633,
+    "german": "Draht",
+    "english": "wire"
+  },
+  {
+    "rank": 634,
+    "german": "Kosten",
+    "english": "cost"
+  },
+  {
+    "rank": 635,
+    "german": "verloren",
+    "english": "lost"
+  },
+  {
+    "rank": 636,
+    "german": "braun",
+    "english": "brown"
+  },
+  {
+    "rank": 637,
+    "german": "tragen",
+    "english": "wear"
+  },
+  {
+    "rank": 638,
+    "german": "Garten",
+    "english": "garden"
+  },
+  {
+    "rank": 639,
+    "german": "gleich",
+    "english": "equal"
+  },
+  {
+    "rank": 640,
+    "german": "gesendet",
+    "english": "sent"
+  },
+  {
+    "rank": 641,
+    "german": "wählen",
+    "english": "choose"
+  },
+  {
+    "rank": 642,
+    "german": "fiel",
+    "english": "fell"
+  },
+  {
+    "rank": 643,
+    "german": "passen",
+    "english": "fit"
+  },
+  {
+    "rank": 644,
+    "german": "fließen",
+    "english": "flow"
+  },
+  {
+    "rank": 645,
+    "german": "Messe",
+    "english": "fair"
+  },
+  {
+    "rank": 646,
+    "german": "Bank",
+    "english": "bank"
+  },
+  {
+    "rank": 647,
+    "german": "sammeln",
+    "english": "collect"
+  },
+  {
+    "rank": 648,
+    "german": "sparen",
+    "english": "save"
+  },
+  {
+    "rank": 649,
+    "german": "Kontrolle",
+    "english": "control"
+  },
+  {
+    "rank": 650,
+    "german": "dezimal",
+    "english": "decimal"
+  },
+  {
+    "rank": 651,
+    "german": "Ohr",
+    "english": "ear"
+  },
+  {
+    "rank": 652,
+    "german": "sonst",
+    "english": "else"
+  },
+  {
+    "rank": 653,
+    "german": "ganz",
+    "english": "quite"
+  },
+  {
+    "rank": 654,
+    "german": "pleite",
+    "english": "broke"
+  },
+  {
+    "rank": 655,
+    "german": "Fall",
+    "english": "case"
+  },
+  {
+    "rank": 656,
+    "german": "Mitte",
+    "english": "middle"
+  },
+  {
+    "rank": 657,
+    "german": "töten",
+    "english": "kill"
+  },
+  {
+    "rank": 658,
+    "german": "Sohn",
+    "english": "son"
+  },
+  {
+    "rank": 659,
+    "german": "See",
+    "english": "lake"
+  },
+  {
+    "rank": 660,
+    "german": "Moment",
+    "english": "moment"
+  },
+  {
+    "rank": 661,
+    "german": "Maßstab",
+    "english": "scale"
+  },
+  {
+    "rank": 662,
+    "german": "laut",
+    "english": "loud"
+  },
+  {
+    "rank": 663,
+    "german": "Frühling",
+    "english": "spring"
+  },
+  {
+    "rank": 664,
+    "german": "beobachten",
+    "english": "observe"
+  },
+  {
+    "rank": 665,
+    "german": "Kind",
+    "english": "child"
+  },
+  {
+    "rank": 666,
+    "german": "gerade",
+    "english": "straight"
+  },
+  {
+    "rank": 667,
+    "german": "Konsonant",
+    "english": "consonant"
+  },
+  {
+    "rank": 668,
+    "german": "Nation",
+    "english": "nation"
+  },
+  {
+    "rank": 669,
+    "german": "Wörterbuch",
+    "english": "dictionary"
+  },
+  {
+    "rank": 670,
+    "german": "milch",
+    "english": "milk"
+  },
+  {
+    "rank": 671,
+    "german": "Geschwindigkeit",
+    "english": "speed"
+  },
+  {
+    "rank": 672,
+    "german": "Verfahren",
+    "english": "method"
+  },
+  {
+    "rank": 673,
+    "german": "Orgel",
+    "english": "organ"
+  },
+  {
+    "rank": 674,
+    "german": "zahlen",
+    "english": "pay"
+  },
+  {
+    "rank": 675,
+    "german": "Alter",
+    "english": "age"
+  },
+  {
+    "rank": 676,
+    "german": "Abschnitt",
+    "english": "section"
+  },
+  {
+    "rank": 677,
+    "german": "Kleid",
+    "english": "dress"
+  },
+  {
+    "rank": 678,
+    "german": "Wolke",
+    "english": "cloud"
+  },
+  {
+    "rank": 679,
+    "german": "Überraschung",
+    "english": "surprise"
+  },
+  {
+    "rank": 680,
+    "german": "ruhig",
+    "english": "quiet"
+  },
+  {
+    "rank": 681,
+    "german": "Stein",
+    "english": "stone"
+  },
+  {
+    "rank": 682,
+    "german": "winzig",
+    "english": "tiny"
+  },
+  {
+    "rank": 683,
+    "german": "Aufstieg",
+    "english": "climb"
+  },
+  {
+    "rank": 684,
+    "german": "kühlen",
+    "english": "cool"
+  },
+  {
+    "rank": 685,
+    "german": "Entwurf",
+    "english": "design"
+  },
+  {
+    "rank": 686,
+    "german": "arm",
+    "english": "poor"
+  },
+  {
+    "rank": 687,
+    "german": "Menge",
+    "english": "lot"
+  },
+  {
+    "rank": 688,
+    "german": "Versuch",
+    "english": "experiment"
+  },
+  {
+    "rank": 689,
+    "german": "Boden",
+    "english": "bottom"
+  },
+  {
+    "rank": 690,
+    "german": "Schlüssel",
+    "english": "key"
+  },
+  {
+    "rank": 691,
+    "german": "Eisen",
+    "english": "iron"
+  },
+  {
+    "rank": 692,
+    "german": "Einzel",
+    "english": "single"
+  },
+  {
+    "rank": 693,
+    "german": "Stick",
+    "english": "stick"
+  },
+  {
+    "rank": 694,
+    "german": "Wohnung",
+    "english": "flat"
+  },
+  {
+    "rank": 695,
+    "german": "zwanzig",
+    "english": "twenty"
+  },
+  {
+    "rank": 696,
+    "german": "Haut",
+    "english": "skin"
+  },
+  {
+    "rank": 697,
+    "german": "Lächeln",
+    "english": "smile"
+  },
+  {
+    "rank": 698,
+    "german": "Falte",
+    "english": "crease"
+  },
+  {
+    "rank": 699,
+    "german": "Loch",
+    "english": "hole"
+  },
+  {
+    "rank": 700,
+    "german": "springen",
+    "english": "jump"
+  },
+  {
+    "rank": 701,
+    "german": "Kind",
+    "english": "baby"
+  },
+  {
+    "rank": 702,
+    "german": "acht",
+    "english": "eight"
+  },
+  {
+    "rank": 703,
+    "german": "Dorf",
+    "english": "village"
+  },
+  {
+    "rank": 704,
+    "german": "treffen",
+    "english": "meet"
+  },
+  {
+    "rank": 705,
+    "german": "Wurzel",
+    "english": "root"
+  },
+  {
+    "rank": 706,
+    "german": "kaufen",
+    "english": "buy"
+  },
+  {
+    "rank": 707,
+    "german": "erhöhen",
+    "english": "raise"
+  },
+  {
+    "rank": 708,
+    "german": "lösen",
+    "english": "solve"
+  },
+  {
+    "rank": 709,
+    "german": "Metall",
+    "english": "metal"
+  },
+  {
+    "rank": 710,
+    "german": "ob",
+    "english": "whether"
+  },
+  {
+    "rank": 711,
+    "german": "drücken",
+    "english": "push"
+  },
+  {
+    "rank": 712,
+    "german": "sieben",
+    "english": "seven"
+  },
+  {
+    "rank": 713,
+    "german": "Absatz",
+    "english": "paragraph"
+  },
+  {
+    "rank": 714,
+    "german": "dritte",
+    "english": "third"
+  },
+  {
+    "rank": 715,
+    "german": "wird",
+    "english": "shall"
+  },
+  {
+    "rank": 716,
+    "german": "Hand",
+    "english": "held"
+  },
+  {
+    "rank": 717,
+    "german": "Haar",
+    "english": "hair"
+  },
+  {
+    "rank": 718,
+    "german": "beschreiben",
+    "english": "describe"
+  },
+  {
+    "rank": 719,
+    "german": "Koch",
+    "english": "cook"
+  },
+  {
+    "rank": 720,
+    "german": "Boden",
+    "english": "floor"
+  },
+  {
+    "rank": 721,
+    "german": "entweder",
+    "english": "either"
+  },
+  {
+    "rank": 722,
+    "german": "Ergebnis",
+    "english": "result"
+  },
+  {
+    "rank": 723,
+    "german": "brennen",
+    "english": "burn"
+  },
+  {
+    "rank": 724,
+    "german": "Hügel",
+    "english": "hill"
+  },
+  {
+    "rank": 725,
+    "german": "sicher",
+    "english": "safe"
+  },
+  {
+    "rank": 726,
+    "german": "Katze",
+    "english": "cat"
+  },
+  {
+    "rank": 727,
+    "german": "Jahrhundert",
+    "english": "century"
+  },
+  {
+    "rank": 728,
+    "german": "betrachten",
+    "english": "consider"
+  },
+  {
+    "rank": 729,
+    "german": "Typ",
+    "english": "type"
+  },
+  {
+    "rank": 730,
+    "german": "Gesetz",
+    "english": "law"
+  },
+  {
+    "rank": 731,
+    "german": "Bit",
+    "english": "bit"
+  },
+  {
+    "rank": 732,
+    "german": "Küste",
+    "english": "coast"
+  },
+  {
+    "rank": 733,
+    "german": "Kopie",
+    "english": "copy"
+  },
+  {
+    "rank": 734,
+    "german": "Ausdruck",
+    "english": "phrase"
+  },
+  {
+    "rank": 735,
+    "german": "still",
+    "english": "silent"
+  },
+  {
+    "rank": 736,
+    "german": "hoch",
+    "english": "tall"
+  },
+  {
+    "rank": 737,
+    "german": "Sand",
+    "english": "sand"
+  },
+  {
+    "rank": 738,
+    "german": "Boden",
+    "english": "soil"
+  },
+  {
+    "rank": 739,
+    "german": "Rolle",
+    "english": "roll"
+  },
+  {
+    "rank": 740,
+    "german": "Temperatur",
+    "english": "temperature"
+  },
+  {
+    "rank": 741,
+    "german": "Finger",
+    "english": "finger"
+  },
+  {
+    "rank": 742,
+    "german": "Industrie",
+    "english": "industry"
+  },
+  {
+    "rank": 743,
+    "german": "Wert",
+    "english": "value"
+  },
+  {
+    "rank": 744,
+    "german": "Kampf",
+    "english": "fight"
+  },
+  {
+    "rank": 745,
+    "german": "Lüge",
+    "english": "lie"
+  },
+  {
+    "rank": 746,
+    "german": "schlagen",
+    "english": "beat"
+  },
+  {
+    "rank": 747,
+    "german": "begeistern",
+    "english": "excite"
+  },
+  {
+    "rank": 748,
+    "german": "natürlich",
+    "english": "natural"
+  },
+  {
+    "rank": 749,
+    "german": "Blick",
+    "english": "view"
+  },
+  {
+    "rank": 750,
+    "german": "Sinn",
+    "english": "sense"
+  },
+  {
+    "rank": 751,
+    "german": "Hauptstadt",
+    "english": "capital"
+  },
+  {
+    "rank": 752,
+    "german": "wird nicht",
+    "english": "won't"
+  },
+  {
+    "rank": 753,
+    "german": "Stuhl",
+    "english": "chair"
+  },
+  {
+    "rank": 754,
+    "german": "Achtung",
+    "english": "danger"
+  },
+  {
+    "rank": 755,
+    "german": "Obst",
+    "english": "fruit"
+  },
+  {
+    "rank": 756,
+    "german": "reich",
+    "english": "rich"
+  },
+  {
+    "rank": 757,
+    "german": "dick",
+    "english": "thick"
+  },
+  {
+    "rank": 758,
+    "german": "Soldat",
+    "english": "soldier"
+  },
+  {
+    "rank": 759,
+    "german": "Prozess",
+    "english": "process"
+  },
+  {
+    "rank": 760,
+    "german": "betreiben",
+    "english": "operate"
+  },
+  {
+    "rank": 761,
+    "german": "Praxis",
+    "english": "practice"
+  },
+  {
+    "rank": 762,
+    "german": "trennen",
+    "english": "separate"
+  },
+  {
+    "rank": 763,
+    "german": "schwierig",
+    "english": "difficult"
+  },
+  {
+    "rank": 764,
+    "german": "Arzt",
+    "english": "doctor"
+  },
+  {
+    "rank": 765,
+    "german": "Bitte",
+    "english": "please"
+  },
+  {
+    "rank": 766,
+    "german": "schützen",
+    "english": "protect"
+  },
+  {
+    "rank": 767,
+    "german": "Mittag",
+    "english": "noon"
+  },
+  {
+    "rank": 768,
+    "german": "Ernte",
+    "english": "crop"
+  },
+  {
+    "rank": 769,
+    "german": "modernen",
+    "english": "modern"
+  },
+  {
+    "rank": 770,
+    "german": "Elementes",
+    "english": "element"
+  },
+  {
+    "rank": 771,
+    "german": "treffen",
+    "english": "hit"
+  },
+  {
+    "rank": 772,
+    "german": "Schüler",
+    "english": "student"
+  },
+  {
+    "rank": 773,
+    "german": "Ecke",
+    "english": "corner"
+  },
+  {
+    "rank": 774,
+    "german": "Partei",
+    "english": "party"
+  },
+  {
+    "rank": 775,
+    "german": "Versorgung",
+    "english": "supply"
+  },
+  {
+    "rank": 776,
+    "german": "deren",
+    "english": "whose"
+  },
+  {
+    "rank": 777,
+    "german": "lokalisieren",
+    "english": "locate"
+  },
+  {
+    "rank": 778,
+    "german": "Rings",
+    "english": "ring"
+  },
+  {
+    "rank": 779,
+    "german": "Charakter",
+    "english": "character"
+  },
+  {
+    "rank": 780,
+    "german": "insekt",
+    "english": "insect"
+  },
+  {
+    "rank": 781,
+    "german": "gefangen",
+    "english": "caught"
+  },
+  {
+    "rank": 782,
+    "german": "Zeit",
+    "english": "period"
+  },
+  {
+    "rank": 783,
+    "german": "zeigen",
+    "english": "indicate"
+  },
+  {
+    "rank": 784,
+    "german": "Funk",
+    "english": "radio"
+  },
+  {
+    "rank": 785,
+    "german": "Speiche",
+    "english": "spoke"
+  },
+  {
+    "rank": 786,
+    "german": "Atom",
+    "english": "atom"
+  },
+  {
+    "rank": 787,
+    "german": "Mensch",
+    "english": "human"
+  },
+  {
+    "rank": 788,
+    "german": "Geschichte",
+    "english": "history"
+  },
+  {
+    "rank": 789,
+    "german": "Wirkung",
+    "english": "effect"
+  },
+  {
+    "rank": 790,
+    "german": "elektrisch",
+    "english": "electric"
+  },
+  {
+    "rank": 791,
+    "german": "erwarten",
+    "english": "expect"
+  },
+  {
+    "rank": 792,
+    "german": "Knochen",
+    "english": "bone"
+  },
+  {
+    "rank": 793,
+    "german": "Schiene",
+    "english": "rail"
+  },
+  {
+    "rank": 794,
+    "german": "vorstellen",
+    "english": "imagine"
+  },
+  {
+    "rank": 795,
+    "german": "bieten",
+    "english": "provide"
+  },
+  {
+    "rank": 796,
+    "german": "zustimmen",
+    "english": "agree"
+  },
+  {
+    "rank": 797,
+    "german": "so",
+    "english": "thus"
+  },
+  {
+    "rank": 798,
+    "german": "sanft",
+    "english": "gentle"
+  },
+  {
+    "rank": 799,
+    "german": "Frau",
+    "english": "woman"
+  },
+  {
+    "rank": 800,
+    "german": "Kapitän",
+    "english": "captain"
+  },
+  {
+    "rank": 801,
+    "german": "erraten",
+    "english": "guess"
+  },
+  {
+    "rank": 802,
+    "german": "erforderlich",
+    "english": "necessary"
+  },
+  {
+    "rank": 803,
+    "german": "scharf",
+    "english": "sharp"
+  },
+  {
+    "rank": 804,
+    "german": "Flügel",
+    "english": "wing"
+  },
+  {
+    "rank": 805,
+    "german": "schaffen",
+    "english": "create"
+  },
+  {
+    "rank": 806,
+    "german": "Nachbar",
+    "english": "neighbor"
+  },
+  {
+    "rank": 807,
+    "german": "Wasch",
+    "english": "wash"
+  },
+  {
+    "rank": 808,
+    "german": "Fledermaus",
+    "english": "bat"
+  },
+  {
+    "rank": 809,
+    "german": "eher",
+    "english": "rather"
+  },
+  {
+    "rank": 810,
+    "german": "Menge",
+    "english": "crowd"
+  },
+  {
+    "rank": 811,
+    "german": "mais",
+    "english": "corn"
+  },
+  {
+    "rank": 812,
+    "german": "vergleichen",
+    "english": "compare"
+  },
+  {
+    "rank": 813,
+    "german": "Gedicht",
+    "english": "poem"
+  },
+  {
+    "rank": 814,
+    "german": "Schnur",
+    "english": "string"
+  },
+  {
+    "rank": 815,
+    "german": "Glocke",
+    "english": "bell"
+  },
+  {
+    "rank": 816,
+    "german": "abhängen",
+    "english": "depend"
+  },
+  {
+    "rank": 817,
+    "german": "Fleisch",
+    "english": "meat"
+  },
+  {
+    "rank": 818,
+    "german": "einreiben",
+    "english": "rub"
+  },
+  {
+    "rank": 819,
+    "german": "Rohr",
+    "english": "tube"
+  },
+  {
+    "rank": 820,
+    "german": "berühmt",
+    "english": "famous"
+  },
+  {
+    "rank": 821,
+    "german": "Dollar",
+    "english": "dollar"
+  },
+  {
+    "rank": 822,
+    "german": "Strom",
+    "english": "stream"
+  },
+  {
+    "rank": 823,
+    "german": "Angst",
+    "english": "fear"
+  },
+  {
+    "rank": 824,
+    "german": "Blick",
+    "english": "sight"
+  },
+  {
+    "rank": 825,
+    "german": "dünn",
+    "english": "thin"
+  },
+  {
+    "rank": 826,
+    "german": "Dreieck",
+    "english": "triangle"
+  },
+  {
+    "rank": 827,
+    "german": "Erde",
+    "english": "planet"
+  },
+  {
+    "rank": 828,
+    "german": "Eile",
+    "english": "hurry"
+  },
+  {
+    "rank": 829,
+    "german": "Chef",
+    "english": "chief"
+  },
+  {
+    "rank": 830,
+    "german": "Kolonie",
+    "english": "colony"
+  },
+  {
+    "rank": 831,
+    "german": "Uhr",
+    "english": "clock"
+  },
+  {
+    "rank": 832,
+    "german": "Mine",
+    "english": "mine"
+  },
+  {
+    "rank": 833,
+    "german": "Krawatte",
+    "english": "tie"
+  },
+  {
+    "rank": 834,
+    "german": "eingeben",
+    "english": "enter"
+  },
+  {
+    "rank": 835,
+    "german": "Dur",
+    "english": "major"
+  },
+  {
+    "rank": 836,
+    "german": "frisch",
+    "english": "fresh"
+  },
+  {
+    "rank": 837,
+    "german": "Suche",
+    "english": "search"
+  },
+  {
+    "rank": 838,
+    "german": "senden",
+    "english": "send"
+  },
+  {
+    "rank": 839,
+    "german": "gelb",
+    "english": "yellow"
+  },
+  {
+    "rank": 840,
+    "german": "Pistole",
+    "english": "gun"
+  },
+  {
+    "rank": 841,
+    "german": "erlauben",
+    "english": "allow"
+  },
+  {
+    "rank": 842,
+    "german": "Druck",
+    "english": "print"
+  },
+  {
+    "rank": 843,
+    "german": "tot",
+    "english": "dead"
+  },
+  {
+    "rank": 844,
+    "german": "Stelle",
+    "english": "spot"
+  },
+  {
+    "rank": 845,
+    "german": "Wüste",
+    "english": "desert"
+  },
+  {
+    "rank": 846,
+    "german": "Anzug",
+    "english": "suit"
+  },
+  {
+    "rank": 847,
+    "german": "Strom",
+    "english": "current"
+  },
+  {
+    "rank": 848,
+    "german": "Aufzug",
+    "english": "lift"
+  },
+  {
+    "rank": 849,
+    "german": "stiegen",
+    "english": "rose"
+  },
+  {
+    "rank": 850,
+    "german": "ankommen",
+    "english": "arrive"
+  },
+  {
+    "rank": 851,
+    "german": "Stamm",
+    "english": "master"
+  },
+  {
+    "rank": 852,
+    "german": "Spur",
+    "english": "track"
+  },
+  {
+    "rank": 853,
+    "german": "Elternteil",
+    "english": "parent"
+  },
+  {
+    "rank": 854,
+    "german": "Ufer",
+    "english": "shore"
+  },
+  {
+    "rank": 855,
+    "german": "Teilung",
+    "english": "division"
+  },
+  {
+    "rank": 856,
+    "german": "Blatt",
+    "english": "sheet"
+  },
+  {
+    "rank": 857,
+    "german": "Substanz",
+    "english": "substance"
+  },
+  {
+    "rank": 858,
+    "german": "begünstigen",
+    "english": "favor"
+  },
+  {
+    "rank": 859,
+    "german": "verbinden",
+    "english": "connect"
+  },
+  {
+    "rank": 860,
+    "german": "nach",
+    "english": "post"
+  },
+  {
+    "rank": 861,
+    "german": "verbringen",
+    "english": "spend"
+  },
+  {
+    "rank": 862,
+    "german": "Akkord",
+    "english": "chord"
+  },
+  {
+    "rank": 863,
+    "german": "Fett",
+    "english": "fat"
+  },
+  {
+    "rank": 864,
+    "german": "froh",
+    "english": "glad"
+  },
+  {
+    "rank": 865,
+    "german": "Original",
+    "english": "original"
+  },
+  {
+    "rank": 866,
+    "german": "Aktie",
+    "english": "share"
+  },
+  {
+    "rank": 867,
+    "german": "Station",
+    "english": "station"
+  },
+  {
+    "rank": 868,
+    "german": "Papa",
+    "english": "dad"
+  },
+  {
+    "rank": 869,
+    "german": "Brot",
+    "english": "bread"
+  },
+  {
+    "rank": 870,
+    "german": "aufladen",
+    "english": "charge"
+  },
+  {
+    "rank": 871,
+    "german": "richtig",
+    "english": "proper"
+  },
+  {
+    "rank": 872,
+    "german": "Leiste",
+    "english": "bar"
+  },
+  {
+    "rank": 873,
+    "german": "Angebot",
+    "english": "offer"
+  },
+  {
+    "rank": 874,
+    "german": "Segment",
+    "english": "segment"
+  },
+  {
+    "rank": 875,
+    "german": "Sklave",
+    "english": "slave"
+  },
+  {
+    "rank": 876,
+    "german": "ente",
+    "english": "duck"
+  },
+  {
+    "rank": 877,
+    "german": "Augenblick",
+    "english": "instant"
+  },
+  {
+    "rank": 878,
+    "german": "Markt",
+    "english": "market"
+  },
+  {
+    "rank": 879,
+    "german": "Grad",
+    "english": "degree"
+  },
+  {
+    "rank": 880,
+    "german": "besiedeln",
+    "english": "populate"
+  },
+  {
+    "rank": 881,
+    "german": "küken",
+    "english": "chick"
+  },
+  {
+    "rank": 882,
+    "german": "liebe",
+    "english": "dear"
+  },
+  {
+    "rank": 883,
+    "german": "Feind",
+    "english": "enemy"
+  },
+  {
+    "rank": 884,
+    "german": "antworten",
+    "english": "reply"
+  },
+  {
+    "rank": 885,
+    "german": "Getränk",
+    "english": "drink"
+  },
+  {
+    "rank": 886,
+    "german": "auftreten",
+    "english": "occur"
+  },
+  {
+    "rank": 887,
+    "german": "Unterstützung",
+    "english": "support"
+  },
+  {
+    "rank": 888,
+    "german": "Rede",
+    "english": "speech"
+  },
+  {
+    "rank": 889,
+    "german": "Natur",
+    "english": "nature"
+  },
+  {
+    "rank": 890,
+    "german": "Angebot",
+    "english": "range"
+  },
+  {
+    "rank": 891,
+    "german": "Dampf",
+    "english": "steam"
+  },
+  {
+    "rank": 892,
+    "german": "Bewegung",
+    "english": "motion"
+  },
+  {
+    "rank": 893,
+    "german": "Weg",
+    "english": "path"
+  },
+  {
+    "rank": 894,
+    "german": "Flüssigkeit",
+    "english": "liquid"
+  },
+  {
+    "rank": 895,
+    "german": "protokollieren",
+    "english": "log"
+  },
+  {
+    "rank": 896,
+    "german": "gemeint",
+    "english": "meant"
+  },
+  {
+    "rank": 897,
+    "german": "Quotient",
+    "english": "quotient"
+  },
+  {
+    "rank": 898,
+    "german": "Gebiss",
+    "english": "teeth"
+  },
+  {
+    "rank": 899,
+    "german": "Schale",
+    "english": "shell"
+  },
+  {
+    "rank": 900,
+    "german": "Hals",
+    "english": "neck"
+  },
+  {
+    "rank": 901,
+    "german": "Sauerstoff",
+    "english": "oxygen"
+  },
+  {
+    "rank": 902,
+    "german": "Zucker",
+    "english": "sugar"
+  },
+  {
+    "rank": 903,
+    "german": "Tod",
+    "english": "death"
+  },
+  {
+    "rank": 904,
+    "german": "ziemlich",
+    "english": "pretty"
+  },
+  {
+    "rank": 905,
+    "german": "Geschicklichkeit",
+    "english": "skill"
+  },
+  {
+    "rank": 906,
+    "german": "Frauen",
+    "english": "women"
+  },
+  {
+    "rank": 907,
+    "german": "Saison",
+    "english": "season"
+  },
+  {
+    "rank": 908,
+    "german": "Lösung",
+    "english": "solution"
+  },
+  {
+    "rank": 909,
+    "german": "Magnet",
+    "english": "magnet"
+  },
+  {
+    "rank": 910,
+    "german": "Silber",
+    "english": "silver"
+  },
+  {
+    "rank": 911,
+    "german": "danken",
+    "english": "thank"
+  },
+  {
+    "rank": 912,
+    "german": "Zweig",
+    "english": "branch"
+  },
+  {
+    "rank": 913,
+    "german": "Spiel",
+    "english": "match"
+  },
+  {
+    "rank": 914,
+    "german": "Suffix",
+    "english": "suffix"
+  },
+  {
+    "rank": 915,
+    "german": "insbesondere",
+    "english": "especially"
+  },
+  {
+    "rank": 916,
+    "german": "Feige",
+    "english": "fig"
+  },
+  {
+    "rank": 917,
+    "german": "ängstlich",
+    "english": "afraid"
+  },
+  {
+    "rank": 918,
+    "german": "riesig",
+    "english": "huge"
+  },
+  {
+    "rank": 919,
+    "german": "Schwester",
+    "english": "sister"
+  },
+  {
+    "rank": 920,
+    "german": "Stahl",
+    "english": "steel"
+  },
+  {
+    "rank": 921,
+    "german": "diskutieren",
+    "english": "discuss"
+  },
+  {
+    "rank": 922,
+    "german": "vorwärts",
+    "english": "forward"
+  },
+  {
+    "rank": 923,
+    "german": "ähnlich",
+    "english": "similar"
+  },
+  {
+    "rank": 924,
+    "german": "führen",
+    "english": "guide"
+  },
+  {
+    "rank": 925,
+    "german": "Erfahrung",
+    "english": "experience"
+  },
+  {
+    "rank": 926,
+    "german": "Partitur",
+    "english": "score"
+  },
+  {
+    "rank": 927,
+    "german": "apfel",
+    "english": "apple"
+  },
+  {
+    "rank": 928,
+    "german": "gekauft",
+    "english": "bought"
+  },
+  {
+    "rank": 929,
+    "german": "geführt",
+    "english": "led"
+  },
+  {
+    "rank": 930,
+    "german": "Tonhöhe",
+    "english": "pitch"
+  },
+  {
+    "rank": 931,
+    "german": "Mantel",
+    "english": "coat"
+  },
+  {
+    "rank": 932,
+    "german": "Masse",
+    "english": "mass"
+  },
+  {
+    "rank": 933,
+    "german": "Karte",
+    "english": "card"
+  },
+  {
+    "rank": 934,
+    "german": "Band",
+    "english": "band"
+  },
+  {
+    "rank": 935,
+    "german": "Seil",
+    "english": "rope"
+  },
+  {
+    "rank": 936,
+    "german": "Rutsch",
+    "english": "slip"
+  },
+  {
+    "rank": 937,
+    "german": "gewinnen",
+    "english": "win"
+  },
+  {
+    "rank": 938,
+    "german": "träumen",
+    "english": "dream"
+  },
+  {
+    "rank": 939,
+    "german": "Abend",
+    "english": "evening"
+  },
+  {
+    "rank": 940,
+    "german": "Zustand",
+    "english": "condition"
+  },
+  {
+    "rank": 941,
+    "german": "Futtermittel",
+    "english": "feed"
+  },
+  {
+    "rank": 942,
+    "german": "Werkzeug",
+    "english": "tool"
+  },
+  {
+    "rank": 943,
+    "german": "gesamt",
+    "english": "total"
+  },
+  {
+    "rank": 944,
+    "german": "Basis",
+    "english": "basic"
+  },
+  {
+    "rank": 945,
+    "german": "Geruch",
+    "english": "smell"
+  },
+  {
+    "rank": 946,
+    "german": "Tal",
+    "english": "valley"
+  },
+  {
+    "rank": 947,
+    "german": "noch",
+    "english": "nor"
+  },
+  {
+    "rank": 948,
+    "german": "doppelt",
+    "english": "double"
+  },
+  {
+    "rank": 949,
+    "german": "Sitz",
+    "english": "seat"
+  },
+  {
+    "rank": 950,
+    "german": "fortsetzen",
+    "english": "continue"
+  },
+  {
+    "rank": 951,
+    "german": "Block",
+    "english": "block"
+  },
+  {
+    "rank": 952,
+    "german": "Tabelle",
+    "english": "chart"
+  },
+  {
+    "rank": 953,
+    "german": "Hut",
+    "english": "hat"
+  },
+  {
+    "rank": 954,
+    "german": "verkaufen",
+    "english": "sell"
+  },
+  {
+    "rank": 955,
+    "german": "Erfolg",
+    "english": "success"
+  },
+  {
+    "rank": 956,
+    "german": "Firma",
+    "english": "company"
+  },
+  {
+    "rank": 957,
+    "german": "subtrahieren",
+    "english": "subtract"
+  },
+  {
+    "rank": 958,
+    "german": "Veranstaltung",
+    "english": "event"
+  },
+  {
+    "rank": 959,
+    "german": "besondere",
+    "english": "particular"
+  },
+  {
+    "rank": 960,
+    "german": "viel",
+    "english": "deal"
+  },
+  {
+    "rank": 961,
+    "german": "schwimmen",
+    "english": "swim"
+  },
+  {
+    "rank": 962,
+    "german": "Begriff",
+    "english": "term"
+  },
+  {
+    "rank": 963,
+    "german": "Gegenteil",
+    "english": "opposite"
+  },
+  {
+    "rank": 964,
+    "german": "Frau",
+    "english": "wife"
+  },
+  {
+    "rank": 965,
+    "german": "Schuh",
+    "english": "shoe"
+  },
+  {
+    "rank": 966,
+    "german": "Schulter",
+    "english": "shoulder"
+  },
+  {
+    "rank": 967,
+    "german": "Verbreitung",
+    "english": "spread"
+  },
+  {
+    "rank": 968,
+    "german": "arrangieren",
+    "english": "arrange"
+  },
+  {
+    "rank": 969,
+    "german": "Lager",
+    "english": "camp"
+  },
+  {
+    "rank": 970,
+    "german": "erfinden",
+    "english": "invent"
+  },
+  {
+    "rank": 971,
+    "german": "Baumwolle",
+    "english": "cotton"
+  },
+  {
+    "rank": 972,
+    "german": "geboren",
+    "english": "born"
+  },
+  {
+    "rank": 973,
+    "german": "bestimmen",
+    "english": "determine"
+  },
+  {
+    "rank": 974,
+    "german": "Quart",
+    "english": "quart"
+  },
+  {
+    "rank": 975,
+    "german": "neun",
+    "english": "nine"
+  },
+  {
+    "rank": 976,
+    "german": "Lastwagen",
+    "english": "truck"
+  },
+  {
+    "rank": 977,
+    "german": "Lärm",
+    "english": "noise"
+  },
+  {
+    "rank": 978,
+    "german": "Ebene",
+    "english": "level"
+  },
+  {
+    "rank": 979,
+    "german": "Chance",
+    "english": "chance"
+  },
+  {
+    "rank": 980,
+    "german": "sammeln",
+    "english": "gather"
+  },
+  {
+    "rank": 981,
+    "german": "Geschäft",
+    "english": "shop"
+  },
+  {
+    "rank": 982,
+    "german": "Stretch",
+    "english": "stretch"
+  },
+  {
+    "rank": 983,
+    "german": "werfen",
+    "english": "throw"
+  },
+  {
+    "rank": 984,
+    "german": "Glanz",
+    "english": "shine"
+  },
+  {
+    "rank": 985,
+    "german": "Immobilien",
+    "english": "property"
+  },
+  {
+    "rank": 986,
+    "german": "Spalte",
+    "english": "column"
+  },
+  {
+    "rank": 987,
+    "german": "Molekül",
+    "english": "molecule"
+  },
+  {
+    "rank": 988,
+    "german": "wählen",
+    "english": "select"
+  },
+  {
+    "rank": 989,
+    "german": "falsch",
+    "english": "wrong"
+  },
+  {
+    "rank": 990,
+    "german": "grau",
+    "english": "gray"
+  },
+  {
+    "rank": 991,
+    "german": "Wiederholung",
+    "english": "repeat"
+  },
+  {
+    "rank": 992,
+    "german": "erfordern",
+    "english": "require"
+  },
+  {
+    "rank": 993,
+    "german": "breit",
+    "english": "broad"
+  },
+  {
+    "rank": 994,
+    "german": "vorbereiten",
+    "english": "prepare"
+  },
+  {
+    "rank": 995,
+    "german": "Salz",
+    "english": "salt"
+  },
+  {
+    "rank": 996,
+    "german": "Nase",
+    "english": "nose"
+  },
+  {
+    "rank": 997,
+    "german": "mehreren",
+    "english": "plural"
+  },
+  {
+    "rank": 998,
+    "german": "Zorn",
+    "english": "anger"
+  },
+  {
+    "rank": 999,
+    "german": "Anspruch",
+    "english": "claim"
+  },
+  {
+    "rank": 1000,
+    "german": "Kontinent",
+    "english": "continent"
+  }
+]
