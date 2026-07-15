@@ -177,6 +177,7 @@ class _PracticeHubScreenState extends State<PracticeHubScreen> {
             child: Padding(
               padding: const EdgeInsets.all(16),
               child: Column(
+                mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text('Word set', style: theme.textTheme.labelLarge),
@@ -185,9 +186,8 @@ class _PracticeHubScreenState extends State<PracticeHubScreen> {
                     spacing: 8,
                     runSpacing: 8,
                     children: PracticeFilter.values.map((f) {
-                      final count = f == PracticeFilter.needPractice
-                          ? queueCount
-                          : null;
+                      final count =
+                          f == PracticeFilter.needPractice ? queueCount : null;
                       return FilterChip(
                         label: Text(
                           count != null && count > 0
@@ -202,19 +202,23 @@ class _PracticeHubScreenState extends State<PracticeHubScreen> {
                   const SizedBox(height: 16),
                   Text('Direction', style: theme.textTheme.labelLarge),
                   const SizedBox(height: 8),
-                  SegmentedButton<PracticeDirection>(
-                    segments: PracticeDirection.values
-                        .map((d) => ButtonSegment(
-                              value: d,
-                              label: Text(
-                                d.label,
-                                style: const TextStyle(fontSize: 12),
-                              ),
-                            ))
-                        .toList(),
-                    selected: {_direction},
-                    onSelectionChanged: (s) =>
-                        setState(() => _direction = s.first),
+                  // Make segmented control scrollable horizontally to avoid overflow
+                  SingleChildScrollView(
+                    scrollDirection: Axis.horizontal,
+                    child: SegmentedButton<PracticeDirection>(
+                      segments: PracticeDirection.values
+                          .map((d) => ButtonSegment(
+                                value: d,
+                                label: Text(
+                                  d.label,
+                                  style: const TextStyle(fontSize: 12),
+                                ),
+                              ))
+                          .toList(),
+                      selected: {_direction},
+                      onSelectionChanged: (s) =>
+                          setState(() => _direction = s.first),
+                    ),
                   ),
                   const SizedBox(height: 16),
                   Text('Words per session: $_wordCount',
@@ -225,8 +229,7 @@ class _PracticeHubScreenState extends State<PracticeHubScreen> {
                     max: 50,
                     divisions: 9,
                     label: '$_wordCount',
-                    onChanged: (v) =>
-                        setState(() => _wordCount = v.round()),
+                    onChanged: (v) => setState(() => _wordCount = v.round()),
                   ),
                 ],
               ),

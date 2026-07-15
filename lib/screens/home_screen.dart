@@ -62,7 +62,8 @@ class HomeScreen extends StatelessWidget {
             physics: const NeverScrollableScrollPhysics(),
             mainAxisSpacing: 12,
             crossAxisSpacing: 12,
-            childAspectRatio: 1.4,
+            // Reduce the aspect ratio so cards get a bit more vertical space
+            childAspectRatio: 1.05,
             children: [
               StatCard(
                 label: 'Total Words',
@@ -133,7 +134,8 @@ class HomeScreen extends StatelessWidget {
           _QuickActionCard(
             icon: Icons.menu_book,
             title: 'Browse All Words',
-            subtitle: '${provider.builtinWords.length} built-in words + your custom vocab',
+            subtitle:
+                '${provider.builtinWords.length} built-in words + your custom vocab',
             color: theme.colorScheme.surfaceContainerHighest,
             onTap: () {
               Navigator.of(context).push(
@@ -195,7 +197,8 @@ class _QuickActionCard extends StatelessWidget {
                     Text(
                       subtitle,
                       style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                            color: Theme.of(context).colorScheme.onSurfaceVariant,
+                            color:
+                                Theme.of(context).colorScheme.onSurfaceVariant,
                           ),
                     ),
                   ],
