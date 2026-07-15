@@ -31,11 +31,11 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
-      - name: Build debug APKs
-        run: flutter build apk --debug --split-per-abi
+      - name: Build debug APK
+        run: flutter build apk --debug
 
-      - name: Upload APK artifacts
+      - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: meine-dict-debug-apks
-          path: build/app/outputs/flutter-apk/*.apk
+          name: meine-dict-debug-apk
+          path: build/app/outputs/flutter-apk/app-debug.apk
